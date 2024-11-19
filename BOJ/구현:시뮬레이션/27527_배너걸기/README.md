@@ -1,5 +1,5 @@
 ### [BOJ] - 27527 배너걸기
-> [문제 링크] (https://www.acmicpc.net/problem/27527)
+> [문제 링크](https://www.acmicpc.net/problem/27527)
 
 **핵심 포인트**
 - 먼저 M개의 숫자를 입력받고 배너를 걸 수 있는 조건이 되는지 확인 
