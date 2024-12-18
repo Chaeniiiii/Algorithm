@@ -16,7 +16,7 @@ public class BOJ1699_제곱수의합 {
 
         for(int i = 1; i<=n; i++){
             for(int j = 1; j * j <= i; j++){
-                if(dp[i] > dp[i - (j*J)] +1) dp[i] = dp[i-(j*j)] + 1; 
+                if(dp[i] > dp[i - (j*j)] +1) dp[i] = dp[i-(j*j)] + 1; 
             }
         }
 
